@@ -13,5 +13,6 @@ This project is a basic practice project created using only HTML and CSS. It is 
 - Add responsiveness for different screen sizes
 - Improve overall design and styling
 
-This is HomePage Screenshot⬇️
+## This is HomePage Screenshot⬇️
+
 ![Project Screenshot](SweetShop.com/HomePage.png)
